@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/drawable/boder.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/drawable/container_bg.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/drawable/spinner.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_chi_tiet_san_pham.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_contract.xml" value="0.136" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_gio_hang.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_infor_user.xml" value="0.1320754716981132" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_information.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_iphone.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_oppo.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_register.xml" value="0.12244897959183673" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_sam_sung.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_san_pgam_da_mua.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_user_account.xml" value="0.2" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/activity_xiaomi.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/dong_listview_loaisanpham.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_gio_hang.xml" value="0.2" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_iphone.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_oppo.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_samsung.xml" value="0.2" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_sanpham_new.xml" value="0.128" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/item_xiaomi.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/layout/progressbar.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/trann/AndroidStudioProjects/MobileNLAShop/app/src/main/res/menu/menu1.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
